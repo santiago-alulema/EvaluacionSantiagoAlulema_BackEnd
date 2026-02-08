@@ -5,8 +5,8 @@ Proyecto Spring Boot para evaluación técnica.
 Incluye:
 - Ejercicios 1, 2 y 3 ejecutándose al iniciar la aplicación (CommandLineRunner)
 - Implementación 1:
-    - consumir `/api/posts/titles?userId=<userId>`, guardar en BD (JPA) y consultar titles por userId
     - consumir `/api/posts/refesh`, sincroniza la base de datos, borra toda la data y inserta la data nueva.
+    - consumir `/api/posts/titles?userId=<userId>`, consultar titles por userId
 - Implementación 2: consumir `/users` y exponer endpoint `/api/external/users`
 - Unit Tests
 
