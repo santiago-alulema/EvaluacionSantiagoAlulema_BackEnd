@@ -19,7 +19,7 @@ Incluye:
 
 ## 1) Levantar Base de Datos (PostgreSQL con Docker)
 
-Ejecutar este comando en una terminal (Windows / PowerShell / CMD):
+Ejecutar este comando en una terminal:
 
 ```bash
 docker run -d --name postgres-evaluacion -e POSTGRES_USER=root -e POSTGRES_PASSWORD=santiagoalulema -e POSTGRES_DB=evaluacion_db -p 5432:5432 postgres:15
