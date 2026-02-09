@@ -3,6 +3,12 @@
 Proyecto Spring Boot para evaluación técnica.
 ---
 
+## Requisitos
+- Java 17
+- Docker Desktop (para PostgreSQL)
+- (Opcional) JMeter para pruebas de carga
+---
+
 ## 1) Levantar Base de Datos (PostgreSQL con Docker)
 
 Ejecutar este comando en una terminal:
@@ -34,10 +40,8 @@ Incluye:
     - consumir `/api/posts/titles?userId=<userId>`, consultar titles por userId
 - Implementación 2: consumir `/users` y exponer endpoint `/api/external/users`
 - Unit Tests
+  - Los test se ejecuta desde EvaluacionSantiagoAlulemaApplicationTests, se realizo dos test.
+  <img width="614" height="216" alt="image" src="https://github.com/user-attachments/assets/b762958e-d1f5-41ae-9d8b-1f6ea277c78f" />
+
 
 ---
-
-## Requisitos
-- Java 17
-- Docker Desktop (para PostgreSQL)
-- (Opcional) JMeter para pruebas de carga
