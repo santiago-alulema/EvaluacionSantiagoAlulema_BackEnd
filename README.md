@@ -23,6 +23,8 @@ docker run -d --name postgres-evaluacion -e POSTGRES_USER=root -e POSTGRES_PASSW
 Incluye:
 
  Ver salidas en consola (Ejercicios 1, 2 y 3)
+   <img width="1025" height="858" alt="image" src="https://github.com/user-attachments/assets/636519fd-b8f8-4c54-a70e-3d833f3fb4eb" />
+
 
 - Ejercicio 1  
   <img width="381" height="354" alt="image" src="https://github.com/user-attachments/assets/5061eec2-1d78-4857-9b62-208fc2eb8fc3" />
