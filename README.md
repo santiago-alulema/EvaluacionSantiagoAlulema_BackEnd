@@ -12,7 +12,7 @@ docker run -d --name postgres-evaluacion -e POSTGRES_USER=root -e POSTGRES_PASSW
 ```
 
 ## 2) Run Project
-
+- Url Base: http://localhost:8092
 Incluye:
 - Ejercicios 1, 2 y 3 ejecutándose al iniciar la aplicación (CommandLineRunner)
 - Implementación 1:
