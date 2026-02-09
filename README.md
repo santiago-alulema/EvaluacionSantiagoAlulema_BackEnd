@@ -19,13 +19,13 @@ Incluye:
  Ver salidas en consola (Ejercicios 1, 2 y 3)
 
 - Ejercicio 1  
-  ![Salida del Ejercicio 1]([https://github.com/user-attachments/assets/...](https://github.com/user-attachments/assets/5061eec2-1d78-4857-9b62-208fc2eb8fc3))
+  <img width="381" height="354" alt="image" src="https://github.com/user-attachments/assets/5061eec2-1d78-4857-9b62-208fc2eb8fc3" />
 
 - Ejercicio 2  
-  <img width="390" alt="Salida del Ejercicio 2" src="..." />
+  <img width="390" height="55" alt="image" src="https://github.com/user-attachments/assets/b4f9b78b-3a46-40b2-bbbe-46b869061a01" />
 
 - Ejercicio 3  
-  <img width="410" alt="Salida del Ejercicio 3" src="..." />
+  <img width="410" height="47" alt="image" src="https://github.com/user-attachments/assets/4b4607f1-9d7e-412b-99e7-37168fb8e320" />
 
 
 
