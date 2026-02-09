@@ -15,11 +15,11 @@ docker run -d --name postgres-evaluacion -e POSTGRES_USER=root -e POSTGRES_PASSW
  Url Base: http://localhost:8092
   
 Incluye:
-<details>
-  <summary>Ver salidas en consola (Ejercicios 1, 2 y 3)</summary>
+
+ Ver salidas en consola (Ejercicios 1, 2 y 3)
 
 - Ejercicio 1  
-  <img width="381" alt="Salida del Ejercicio 1" src="..." />
+  ![Salida del Ejercicio 1]([https://github.com/user-attachments/assets/...](https://github.com/user-attachments/assets/5061eec2-1d78-4857-9b62-208fc2eb8fc3))
 
 - Ejercicio 2  
   <img width="390" alt="Salida del Ejercicio 2" src="..." />
@@ -27,7 +27,7 @@ Incluye:
 - Ejercicio 3  
   <img width="410" alt="Salida del Ejercicio 3" src="..." />
 
-</details>
+
 
 - Implementación 1:
     - consumir `/api/posts/refesh`, sincroniza la base de datos, borra toda la data y inserta la data nueva.
